@@ -90,7 +90,7 @@ export default function Nav() {
 
           {/* Przycisk Discord po prawej */}
           <a
-            href="https://discord.com"
+            href="https://discord.com/invite/mariusz"
             target="_blank"
             rel="noreferrer"
             className="pill-discord-btn"
@@ -128,7 +128,7 @@ export default function Nav() {
             </a>
           ))}
           <a
-            href="https://discord.com"
+            href="https://discord.com/invite/mariusz"
             target="_blank"
             rel="noreferrer"
             className="corner-menu-item corner-menu-item--discord"
