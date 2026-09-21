@@ -3,12 +3,12 @@
 import { useState } from 'react'
 
 export default function Nav() {
-  const [activeTab, setActiveTab] = useState('hero')
+  const [activeTab, setActiveTab] = useState('wstep')
   const [menuOpen, setMenuOpen] = useState(false)
 
   const navItems = [
     {
-      id: 'hero',
+      id: 'wstep',
       label: 'Wstęp',
       href: '#wstep',
       icon: (

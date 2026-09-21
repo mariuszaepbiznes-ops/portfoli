@@ -2,7 +2,7 @@
 
 export default function Hero() {
   return (
-    <section id="hero" className="hero-1to1">
+    <section id="wstep" className="hero-1to1">
       {/* SIATKA PERSPEKTYWICZNA W TLE + AMBIENT GLOW */}
       <div className="hero-grid-floor" />
       <div className="hero-ambient-glow" />
