@@ -1,5 +1,5 @@
 import Nav from '@/components/Nav'
-import Hero from '@/components/Hero'
+import Hero from '@/components/wstep'
 import About from '@/components/About'
 import Projects from '@/components/Projects'
 import Pricing from '@/components/Pricing'
