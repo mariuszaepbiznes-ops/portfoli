@@ -112,8 +112,8 @@ export default function Hero() {
                     <polyline points="21 15 16 10 5 21" stroke="var(--accent)" />
                   </svg>
                 </div>
-                <span className="placeholder-text">TWOJE ZDJĘCIE</span>
-                <span className="placeholder-hint">Zapisane jako public/hero.png</span>
+                <span className="placeholder-text">MARIUSZ</span>
+                <span className="placeholder-hint">Edytor Wideo & Montażysta</span>
               </div>
             </div>
 
