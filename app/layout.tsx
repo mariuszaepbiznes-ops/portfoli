@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Mariusz portfolio',
-  description: 'Portfolio montazysty filmow, edytow i animacji. Film. Edit. Motion.',
+  description: 'Moje portfolio filmow, edytow i animacji. Film. Edit. Motion.',
 }
 
 export default function RootLayout({
